@@ -1,15 +1,17 @@
-<h1 align="center">
-  Hi, I'm Sithu Htut
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<h1 align="center">Sithu Htut</h1>
 
-<h3 align="center">
-Frontend Developer | React Enthusiast | UI/UX Focused
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
+
+<p align="center">
+Frontend Developer specializing in React and modern web technologies.<br>
+Passionate about building responsive, user-focused applications with clean code and intuitive user interfaces.
+</p>
 
 <p align="center">
   <a href="https://github.com/Htut-7">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+    <img src="https://komarev.com/ghpvc/?username=Htut-7&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 </p>
 
@@ -17,150 +19,170 @@ Frontend Developer | React Enthusiast | UI/UX Focused
 
 ## About Me
 
-I'm a frontend developer passionate about building modern, responsive, and user-friendly web applications.
+I'm a frontend developer who enjoys creating modern web applications with a strong focus on performance, usability, and clean design.
 
-I enjoy transforming ideas into interactive digital experiences while continuously improving my skills in frontend development and UI design.
+Currently, I'm expanding my knowledge of React, Firebase, and frontend architecture while building practical projects that solve real-world problems.
 
-Currently focusing on:
-
-- React.js
-- JavaScript (ES6+)
-- Responsive Design
-- Firebase
-- REST APIs
-- Modern CSS
-- UI/UX
+- Frontend Developer
+- React Developer
+- UI/UX Enthusiast
+- Based in Bangkok, Thailand
+- Open to Junior Frontend Developer opportunities
 
 ---
 
 ## Tech Stack
 
-<p align="left">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,firebase,bootstrap,git,github,vscode,figma,mysql,php" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,bootstrap" />
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,php,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
 ---
 
-## Currently Learning
+## Current Focus
 
-- Advanced React Patterns
-- Context API
+- Advanced React
 - Firebase Authentication
 - Firestore
+- REST APIs
+- Context API
 - Performance Optimization
 - Clean Architecture
+- Responsive Web Design
 
 ---
 
 ## Featured Projects
 
 ### MovieHub
-Movie discovery application built with React, Firebase and TMDB API.
 
-**Tech**
+Movie discovery application built with React, Firebase, and the TMDB API.
+
+**Tech Stack**
+
 - React
 - Firebase
 - TMDB API
 - CSS
 
+Repository:
+https://github.com/Htut-7
+
 ---
 
 ### Restaurant POS System
 
-Modern restaurant management dashboard with responsive UI.
+Restaurant management dashboard with a modern and responsive interface.
 
-**Tech**
+**Tech Stack**
+
 - React
 - Context API
-- CSS
 - React Router
+- CSS
+
+Repository:
+https://github.com/Htut-7
 
 ---
 
 ### TalkSpace
 
-Real-time messaging application.
+Real-time messaging application with authentication and cloud database.
 
-**Tech**
+**Tech Stack**
+
 - React
 - Firebase
 - Firestore
-- Authentication
+
+Repository:
+https://github.com/Htut-7
 
 ---
 
 ### BookCloud
 
-Digital book management platform.
+Book management platform built with React and Firebase.
 
-**Tech**
+**Tech Stack**
+
 - React
 - Firebase
 - Firestore
 
+Repository:
+https://github.com/Htut-7
+
 ---
 
-## GitHub Stats
+## GitHub Statistics
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Htut-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=Htut-7&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Htut-7&show_icons=true&theme=tokyonight"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Htut-7&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## GitHub Streak
+## Contribution Graph
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Htut-7&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Htut-7&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## Activity Graph
+## GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Htut-7&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Htut-7&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-## Connect With Me
+## Connect
 
-<p align="left">
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
+<p>
 <a href="https://github.com/Htut-7">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
+<a href="mailto:your-email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 </p>
 
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Htut-7&label=Profile+Views&color=3b82f6&style=flat"/>
-
-</p>
-
----
-
-<p align="center">
-
-"Great interfaces are not just beautiful—they solve problems."
-
+<i>Building clean code, intuitive interfaces, and modern web experiences.</i>
 </p>
