@@ -139,12 +139,12 @@ https://github.com/Htut-7
 ## GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Htut-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Htut-7&layout=compact&theme=tokyonight&hide_border=true"/>
   <img height="170" src="https://streak-stats.demolab.com?user=Htut-7&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Htut-7&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;Building+Modern+Web+Applications"/>
 </p>
 
 ---
@@ -157,11 +157,7 @@ https://github.com/Htut-7
 
 ---
 
-## GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Htut-7&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
 
 ---
 
