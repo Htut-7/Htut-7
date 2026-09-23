@@ -1,28 +1,9 @@
-# Hi 👋, I'm Sithu Htut
+# 👋 Hi, I’m Sithu Htut
 
-### Full Stack Developer
+I’m a full stack developer building web applications with React, Next.js, Firebase, and MongoDB. I enjoy turning ideas into useful features, from responsive interfaces to authentication, APIs, and data models.
 
-I build web applications with React and Next.js, from responsive interfaces to authentication, APIs, and databases. I'm based in Bangkok, Thailand and open to junior developer opportunities.
+Right now, I’m focused on improving how I design, build, and deploy complete applications.
 
-- 👨‍💻 Explore my projects: [GitHub repositories](https://github.com/Htut-7?tab=repositories)
-- 🌐 View my work: [Portfolio](https://sithuhtut-portfoliovercelapp.vercel.app/)
-- 💬 Ask me about **React, Next.js, Firebase, and MongoDB**
-- 🌱 Currently improving my skills in **full stack development and application architecture**
+### Tech Stack
 
-### Connect with me
-
-[GitHub](https://github.com/Htut-7) · [Portfolio](https://sithuhtut-portfoliovercelapp.vercel.app/)
-
-### Languages and Tools
-
-**Languages**  
-<img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="JavaScript, TypeScript, HTML, CSS" />
-
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React, Next.js, Tailwind CSS" />
-
-**Backend and Databases**  
-<img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb" alt="Node.js, Firebase, MongoDB" />
-
-**Tools**  
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman" alt="Git, GitHub, Docker, Vercel, Postman" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,firebase,mongodb,git,github,docker,vercel,postman" alt="JavaScript, TypeScript, HTML, CSS, React, Next.js, Tailwind CSS, Node.js, Firebase, MongoDB, Git, GitHub, Docker, Vercel, and Postman" />
