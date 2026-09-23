@@ -15,7 +15,14 @@ I build web applications with React and Next.js, from responsive interfaces to a
 
 ### Languages and Tools
 
-**Languages:** JavaScript, TypeScript, HTML, CSS  
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend and databases:** Node.js, Firebase, MongoDB  
-**Tools:** Git, GitHub, Docker, Vercel, Postman
+**Languages**  
+<img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="JavaScript, TypeScript, HTML, CSS" />
+
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React, Next.js, Tailwind CSS" />
+
+**Backend and Databases**  
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb" alt="Node.js, Firebase, MongoDB" />
+
+**Tools**  
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman" alt="Git, GitHub, Docker, Vercel, Postman" />
