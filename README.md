@@ -1,19 +1,28 @@
-# 👋 Hi, I’m Sithu Htut
+name: Generate Snake
 
-I’m a full stack developer building web applications with React, Next.js, Firebase, and MongoDB. I enjoy turning ideas into useful features, from responsive interfaces to authentication, APIs, and data models.
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
-Right now, I’m focused on improving how I design, build, and deploy complete applications.
+permissions:
+  contents: write
 
-### Tech Stack
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/github-snake.svg?palette=github-dark
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,firebase,mongodb,git,github,docker,vercel,postman" alt="JavaScript, TypeScript, HTML, CSS, React, Next.js, Tailwind CSS, Node.js, Firebase, MongoDB, Git, GitHub, Docker, Vercel, and Postman" />
-
-### 🏙️ Contribution City
-
-<p align="center">
-  <img
-    src="./assets/contribution-city.svg"
-    width="100%"
-    alt="My GitHub Contribution City"
-  />
-</p>
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
