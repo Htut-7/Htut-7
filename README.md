@@ -7,3 +7,13 @@ Right now, I’m focused on improving how I design, build, and deploy complete a
 ### Tech Stack
 
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,firebase,mongodb,git,github,docker,vercel,postman" alt="JavaScript, TypeScript, HTML, CSS, React, Next.js, Tailwind CSS, Node.js, Firebase, MongoDB, Git, GitHub, Docker, Vercel, and Postman" />
+
+### 🏙️ Contribution City
+
+<p align="center">
+  <img
+    src="./assets/contribution-city.svg"
+    width="100%"
+    alt="My GitHub Contribution City"
+  />
+</p>
